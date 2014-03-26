@@ -1,0 +1,17 @@
+# Global paths.
+*.diff
+*.mode1v3
+*.orig
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.swp
+.DS_Store
+project.xcworkspace/
+tags
+xcuserdata/
+
+# Specific paths.
+/*.html
+/nakefile*
+/external/
